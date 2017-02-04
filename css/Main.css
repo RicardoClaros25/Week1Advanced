@@ -1,1 +1,30 @@
-"Optimus" 
+* {
+  font-family: 'lato', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.navigation {
+  background-color: #f6f9f9;
+  padding: 25px 100px;
+}
+
+/*call to action section*/
+#cta {
+  background-image: url(../img/bg1.png);
+  height: 800px;
+  text-align: center;
+}
+
+#cta h1 {
+  color: #ffffff;
+  font-size: 120px;
+  font-weight: 700;
+  line-height: 47px;
+  margin-bottom: 60px;
+  margin-top: 0;
+  padding-top: 225px;
+  text-align: center;
+}
