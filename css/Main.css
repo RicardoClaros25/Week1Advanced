@@ -221,3 +221,34 @@ form button {
   margin: 25px 0 0 50px;
   padding: 10px 25px;
 }
+
+/*footer*/
+.footer {
+  background-color: #F6F9F9;
+  padding: 10px;
+  height: 50px;
+  padding-left: 50px;
+}
+
+.footer p {
+  float: left;
+  margin-left: 75px;
+}
+
+#socialMedia {
+  float: right;
+  margin: 20px 75px 0 0;
+}
+
+#socialMedia a {
+  border-radius: 2px;
+  background-color: #15a4fa;
+  color: white;
+  margin: 5px;
+  padding: 7px;
+  text-decoration: none;
+}
+
+#socialMedia a:first-child {
+  padding: 7px 9px;
+}
